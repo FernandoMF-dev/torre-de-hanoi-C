@@ -1,0 +1,13 @@
+#ifndef NOTIFICATION_ENUMERATION_H_INCLUDED
+#define NOTIFICATION_ENUMERATION_H_INCLUDED
+
+char* notificationEnum_CONFIRM_ENTRADA_INVALIDA;
+char* notificationEnum_CONFIGURACAO_INICIAL_INVALIDA;
+char* notificationEnum_MOVIMENTO_INVALIDO;
+char* notificationEnum_MOVIMENTO_REDUNDANTE;
+char* notificationEnum_FINAL_SUCESSO;
+char* notificationEnum_FINAL_FALHA;
+char* notificationEnum_FINAL_FALHA_MENSAGEM;
+char* notificationEnum_MOSTRAR_RESOLUCAO_MENSAGEM;
+
+#endif // NOTIFICATION_ENUMERATION_H_INCLUDED
